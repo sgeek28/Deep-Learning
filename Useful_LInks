@@ -49,3 +49,82 @@ https://www.udacity.com/course/linux-command-line-basics--ud595
 
 windows
 https://www.lynda.com/-tutorials/Windows-command-line-basics/497312/513424-4.html
+
+
+
+-------------------------------------------------------------
+Beginner projects
+
+https://github.com/yenchenlin/DeepLearningFlappyBird
+
+---------------------------------------------------------------
+Books
+
+https://www.manning.com/books/grokking-deep-learning
+
+http://neuralnetworksanddeeplearning.com/
+
+http://www.deeplearningbook.org/
+
+
+------------------------------------------------------------
+https://nbviewer.jupyter.org/github/jmsteinw/Notebooks/blob/master/IndeedJobs.ipynb
+
+https://nbviewer.jupyter.org/github/masinoa/machine_learning/blob/master/04_Neural_Networks.ipynb
+
+https://nbviewer.jupyter.org/github/tdhopper/rta-pyspark-presentation/blob/master/slides.ipynb
+
+https://github.com/mcleonard/blog_posts/blob/master/body_fat_percentage.ipynb
+
+https://nbviewer.jupyter.org/
+
+https://julialang.org/
+
+https://www.r-project.org/
+---------------------------------------------------------------------
+
+jupyter notebook link
+
+http://video.udacity-data.com.s3.amazonaws.com/topher/2016/December/58474202_working-with-code-cells/working-with-code-cells.ipynb
+
+markdown basics
+
+https://daringfireball.net/projects/markdown/basics
+
+latex tutorial
+
+https://www.latex-tutorial.com/
+
+python debugger
+https://docs.python.org/3/library/pdb.html
+
+magic commands
+https://ipython.readthedocs.io/en/stable/interactive/magics.html
+
+--------------------------------------------------------------------------
+json intro
+https://www.json.org/json-en.html
+
+nbconvert
+https://nbconvert.readthedocs.io/en/latest/usage.html
+
+pandas intro
+https://nbviewer.jupyter.org/format/slides/github/jorisvandenbossche/2015-PyDataParis/blob/master/pandas_introduction.ipynb#/
+
+numpy intro
+https://numpy.org/
+
+numpy documentation
+https://docs.scipy.org/doc/numpy/reference/
+
+tuples and sequences
+https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences
+
+numpy array slicing
+https://docs.scipy.org/doc/numpy/reference/arrays.indexing.html
+
+numpy reshape
+https://docs.scipy.org/doc/numpy/reference/generated/numpy.reshape.html
+markdown cheatsheet
+
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
